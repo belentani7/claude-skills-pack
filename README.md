@@ -1,4 +1,4 @@
-# Skills Pack
+﻿# Skills Pack
 
 **20 production-ready skills for AI coding assistants.** One download, instant capabilities.
 
@@ -8,7 +8,7 @@ Not hundreds of random skills. 20 that actually work, curated from real usage.
 
 ```bash
 # Clone
-git clone https://github.com/skills-pack/skills-pack.git
+git clone https://github.com/belentani7/claude-skills-pack.git
 
 # Copy to your assistant
 cp -r skills/* ~/.your-assistant/skills/
@@ -23,8 +23,8 @@ cp -r skills/* ~/.your-assistant/skills/
 |-------|-------------|
 | `senior-fullstack` | Project scaffolding, code quality analysis, stack selection |
 | `karpathy-coder` | Enforces 4 coding principles: assumptions, simplicity, surgical changes, verifiable goals |
-| `anti-overengineering` | YAGNI enforcement — deletes code before it's written |
-| `zero-hallucination-coder` | Verified structure loop — no invented APIs, no assumed imports |
+| `anti-overengineering` | YAGNI enforcement ÔÇö deletes code before it's written |
+| `zero-hallucination-coder` | Verified structure loop ÔÇö no invented APIs, no assumed imports |
 | `debugging-wizard` | Systematic hypothesis-driven debugging |
 | `react-expert` | React 18+ apps, Server Components, modern patterns |
 | `writing-skills` | Skill creation, testing, and verification |
@@ -61,11 +61,11 @@ cp -r skills/* ~/.your-assistant/skills/
 ## Why These 20?
 
 From 288+ skills across multiple tools, these are the ones that:
-1. **Actually work** — tested in production
-2. **Solve real problems** — not "nice to have"
-3. **Don't overlap** — each does something unique
-4. **Are maintained** — not abandoned
-5. **Work cross-tool** — compatible with multiple assistants
+1. **Actually work** ÔÇö tested in production
+2. **Solve real problems** ÔÇö not "nice to have"
+3. **Don't overlap** ÔÇö each does something unique
+4. **Are maintained** ÔÇö not abandoned
+5. **Work cross-tool** ÔÇö compatible with multiple assistants
 
 ## License
 
